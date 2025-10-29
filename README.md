@@ -12,7 +12,7 @@ A semi-functional clone of the iOS calculator built using HTML, CSS and JavaScri
 - Using CSS Flexbox to create a clean, mobile-friendly layout  
 - Challenges around edge cases (e.g., dividing by zero, multiple digit input) and how to manage them
 
-## Used  
+## Used:
 - HTML  
 - CSS (Flexbox layout)  
 - JavaScript (DOM manipulation & event handling)
