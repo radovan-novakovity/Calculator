@@ -1,6 +1,6 @@
 A semi-functional clone of the iOS calculator built using HTML, CSS and JavaScript, created as part of the Intro to JavaScript course at Frontend Masters.
 
-## It features  
+## It features: 
 - Supports integer-based calculations for the four basic operations (add, subtract, multiply, divide)  
 - Backspace/delete functionality to correct input  
 - Clear memory (reset) button  
