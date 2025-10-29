@@ -4,7 +4,7 @@ A semi-functional clone of the iOS calculator built using HTML, CSS and JavaScri
 - Supports integer-based calculations for the four basic operations (add, subtract, multiply, divide)  
 - Backspace/delete functionality to correct input  
 - Clear memory (reset) button  
-- Responsive layout mimicking iOS calculator UI
+- Layout replicates the iOS calculator design using CSS Flexbox
 
 ## Takeaway from the project:  
 - How to structure a simple web component (calculator) with semantic markup and styles  
